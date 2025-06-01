@@ -1,20 +1,20 @@
-Cypress Project
+##Cypress Project
 
 This project uses Cypress for end-to-end testing. The following description will guide you through the project details
 
-Project Structure
+##Project Structure
 
 fixtures : Contains test data files
 cypress/e2e: Contains test spec files
 support : Contains page objects
 
-Environments
+##Environments
 
 In cypress.config.js :
 baseUrl: "https://demoqa.com/"
 env.apiUrl: "https://reqres.in/api" (for testing API calls )
 
-Running Tests
+##Running Tests
 
 Install the dependencies: npm install
 Open Cypress Test Runner: npx cypress open - for running tests select firefox browser
