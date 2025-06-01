@@ -1,0 +1,16 @@
+{
+  "firstName": "Ati",
+  "lastName": "Radmand",
+  "email": "test@test.com",
+  "gender": "Female",
+  "phone": "5202158996",
+  "birthYear": "1987",
+  "birthMonth": "April",
+  "birthDay": "30",
+  "subject": "computer",
+  "imagePath": "cypress/fixtures/Karlo.jpg",
+  "hobbies": "Music",
+  "address": "Friedenauer Höhe 6, Berlin",
+  "state": "Haryana",
+  "city": "Panipat"
+}

@@ -1,2 +1,0 @@
-# Loady
- QA assignment
